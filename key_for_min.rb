@@ -10,8 +10,5 @@ if min_value == nil || value < min_value
   min_key = key
 end
 end
-if min_key = ""
-  return nil
-end
 min_key
 end
