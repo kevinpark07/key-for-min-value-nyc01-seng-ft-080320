@@ -8,5 +8,5 @@ if value < min_value
   min_value = value
   key_value = key
 end
-
+}
 end
