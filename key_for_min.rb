@@ -8,4 +8,5 @@ if value < min_value
   min_value = value
   return #{key}
 end
+}
 end
