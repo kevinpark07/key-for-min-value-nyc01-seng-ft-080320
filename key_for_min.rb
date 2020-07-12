@@ -6,8 +6,8 @@ key_value = ""
 min_value = 0
 name_hash.each {|key, value|
 if value < min_value
-  min_value = value && 
-  key_value = key
+  min_value = value 
+
 end
 }
 key_value
