@@ -8,6 +8,8 @@ name_hash.each {|key, value|
 if min_value == nil || value < min_value
   min_value = value
   min_key = key
+else
+  nil
 end
 }
 min_key
